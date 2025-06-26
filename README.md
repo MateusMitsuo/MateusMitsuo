@@ -1,6 +1,7 @@
-## Hi there 👋! I'm Mateus Mitsuo
+## Hi there 👋! I'm Mateus Mitsuo Goto Dakuzaku
 
-- 🔭 I’m currently working on simulations to describe flow in porous media using FEniCSx;
+I am currently a PhD student in Computer Science and Computational Mathematics at the Institute of Computing, University of São Paulo (ICMC-USP). My research focuses on numerical simulations of flow in porous media, specifically using FEniCSx for solving partial differential equations.
+
 <!-- - ⚡ Fun fact: ... -->
 
 <!-- Dropdown -->
