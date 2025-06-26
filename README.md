@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Mateus Mitsuo Goto Dakuzaku
 
-I am currently a PhD student in Computer Science and Computational Mathematics at the Institute of Computing, University of São Paulo (ICMC-USP). My research focuses on numerical simulations of flow in porous media, specifically using FEniCSx for solving partial differential equations.
+I am currently a PhD student in Computer Science and Computational Mathematics at the Institute of Mathematical and Computer Sciences, University of São Paulo (ICMC-USP). My research focuses on numerical simulations of flow in porous media, specifically using FEniCSx for solving partial differential equations.
 
 <!-- - ⚡ Fun fact: ... -->
 
